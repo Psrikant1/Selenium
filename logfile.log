@@ -1,0 +1,26 @@
+2023-11-09 11:41:40,129 INFO  [Log] Open application 
+2023-11-09 11:41:46,540 INFO  [Log] Login completed 
+2023-11-09 11:41:46,667 INFO  [Log] Logout Completed 
+2023-11-09 11:41:46,957 INFO  [Log] Close Application 
+2023-11-09 11:53:14,120 INFO  [Log] Open application 
+2023-11-09 11:53:19,867 INFO  [Log] Login completed 
+2023-11-09 11:53:20,002 INFO  [Log] Logout Completed 
+2023-11-09 11:53:20,224 INFO  [Log] Close Application 
+2023-11-09 12:12:57,993 INFO  [Log] Open application 
+2023-11-09 12:13:03,949 INFO  [Log] Login completed 
+2023-11-09 12:13:04,033 INFO  [Log] Enter frame 
+2023-11-09 12:13:10,186 INFO  [Log] Add new Empolyee 
+2023-11-09 12:13:10,208 INFO  [Log] Exist frame 
+2023-11-09 12:13:10,350 INFO  [Log] Logout Completed 
+2023-11-09 12:13:11,749 INFO  [Log] Close Application 
+2023-11-09 12:14:54,885 INFO  [Log] Open application 
+2023-11-09 12:15:00,782 INFO  [Log] Login completed 
+2023-11-09 12:15:00,892 INFO  [Log] Logout Completed 
+2023-11-09 12:15:01,272 INFO  [Log] Close Application 
+2023-11-09 12:15:10,372 INFO  [Log] Open application 
+2023-11-09 12:15:16,890 INFO  [Log] Login completed 
+2023-11-09 12:15:16,953 INFO  [Log] Enter frame 
+2023-11-09 12:15:20,544 INFO  [Log] Add new Empolyee 
+2023-11-09 12:15:20,551 INFO  [Log] Exist frame 
+2023-11-09 12:15:20,632 INFO  [Log] Logout Completed 
+2023-11-09 12:15:20,869 INFO  [Log] Close Application 
